@@ -13,17 +13,9 @@ By: 1. Universidad Nacional de Colombia – Sede Medellín - Facultad de Minas �
 The order of the data is as follows:
 
 1. Data for Figure 4
-
 2. Data for Figure 5
-
-
-
+3. Source files of the AI algorithms - Figure 14 was generated from python with this files
 4. Source files of the Matlab code for the miner trajectories - Figure 13 was generated from Matlab with this code
-
 5. CFD files - Figures 8 and 12 were generated from Ansys Fluent with these files
-
-5. Source files of the AI algorithms - Figure 14 was generated from python with this files
-
 6. Input file for the Ventsim simulations - Figure 11 is a screenshoot of this simulation
-
-For more information please contact Alejandro Molina: amolinao@unal.edu.c
+For more information please contact Alejandro Molina: amolinao@unal.edu.co
